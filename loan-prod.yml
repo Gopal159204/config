@@ -5,7 +5,7 @@ build:
 
 
 loan:
-  message: "Welcome to GoBank loan related Prod APIS "
+  message: "Welcome to GoBank loan related Prod [webhook] APIS "
   contactDetails:
     name: "elvish  - Product Owner"
     email: "elvi@gobank.com"
