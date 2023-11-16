@@ -5,7 +5,7 @@ build:
 
 
 loan:
-  message: "Welcome to GoBank loan related qa APIS "
+  message: "Welcome to GoBank loan related qa  [webhook] APIS "
   contactDetails:
     name: "Shani kale  - qa lead"
     email: "shanik@gobank.com"
