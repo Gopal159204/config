@@ -4,7 +4,7 @@ build:
 
 
 card:
-  message: "Welcome to GoBank card related Prod APIS "
+  message: "Welcome to GoBank card related Prod [webhook] APIS "
   contactDetails:
     name: "ram singh  - Product Owner"
     email: "ram@gobank.com"
